@@ -1,0 +1,15 @@
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\bin\Debug\EnigmaDecoder.exe.config
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\bin\Debug\EnigmaDecoder.exe
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\bin\Debug\EnigmaDecoder.pdb
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.csprojAssemblyReference.cache
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\MainWindow.g.cs
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\App.g.cs
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder_MarkupCompile.cache
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder_MarkupCompile.lref
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\MainWindow.baml
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.g.resources
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.Properties.Resources.resources
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.csproj.GenerateResource.cache
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.csproj.CoreCompileInputs.cache
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.exe
+C:\Users\eloic\source\repos\EnigmaDecoder\EnigmaDecoder\obj\Debug\EnigmaDecoder.pdb
